@@ -1,0 +1,26 @@
+"""
+A program that stores this book information:
+Title, Author
+Year, ISBN
+
+User can:
+
+View all records
+Search an entry
+Add entry
+Update entry
+Delete
+Close
+"""
+Title=(0,0)
+Author=(0,2)
+Year=(1,0)
+ISBN=(1,2)
+View all=(2,3)
+Search entry=(3,3)
+Add entry=(4,3)
+Update=(5,3)
+Delete=(6,3)
+Close=(7,3)
+
+Listbox(row=2,column=0,rowspan=6

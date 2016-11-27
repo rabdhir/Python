@@ -1,0 +1,7 @@
+#!d:\projects\python\finance\mysite\virtual\scripts\python.exe
+
+import sys
+
+from bokeh.command.bootstrap import main
+
+main(sys.argv)
